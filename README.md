@@ -23,9 +23,9 @@ El dataset cuenta con más de 540.000 registros correspondientes a vehículos ve
   
 ## Dashboard
 
-📈Power BI: [Visualización](https://app.powerbi.com/view?r=eyJrIjoiZmFhNDRiNTMtNDFhYi00NzEyLThiM2QtYjA0Zjc5YjRmNThjIiwidCI6Ijk2NjIzM2UzLTBiNzUtNGM3Ny04NzdhLWQ5YjcwYTY5ZWEwMSIsImMiOjR9)
+📈Power BI: [Visualización](https://app.powerbi.com/view?r=eyJrIjoiMDhmNTcwOGMtYzRkYi00MWM1LTgzODctMjExM2NjODg2ZDFmIiwidCI6Ijk2NjIzM2UzLTBiNzUtNGM3Ny04NzdhLWQ5YjcwYTY5ZWEwMSIsImMiOjR9)
 
-<img width="1489" height="831" alt="image" src="https://github.com/user-attachments/assets/9f698dcc-d67d-46fa-86b9-f5a64affbc3c" />
+<img width="1510" height="836" alt="image" src="https://github.com/user-attachments/assets/555d9772-dbb6-4c1a-8128-4b24b2a5aa14" />
 
 
 ---
