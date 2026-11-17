@@ -11,7 +11,7 @@ El dataset cuenta con más de 540.000 registros correspondientes a vehículos ve
 
 ## Procesamiento de Datos
 
-📃Jupyter Notebook: [Mercado_Vehiculos_Usados_USA - Notebook]()
+📃Jupyter Notebook: [Mercado_Vehiculos_Usados_USA - Notebook](https://github.com/erickq11291/Proyectos-Python/blob/b210382375ce26ccea4b3ac3a426f775d1e48d1e/Proyecto_Mercado_coches_USA.ipynb)
 
 - Revisión general de la estructura y calidad del dataset.
 - Identificación y eliminación de registros duplicados.
