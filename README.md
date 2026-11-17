@@ -13,11 +13,14 @@ El dataset cuenta con más de 540.000 registros correspondientes a vehículos ve
 
 📃Jupyter Notebook: [Accidentes_Trafico_Madrid_2025 - Notebook](https://github.com/erickq11291/Proyectos-Python/blob/068f3711879665926509afeabbb0d22826f34d87/Accidentes_Madrid_2025.ipynb)
 
-- Revisión general del dataset
-- Analizar y eliminar valores duplicados y nulos
-- Conversión de columnas
-  
+- Revisión general de la estructura y calidad del dataset.
+- Identificación y eliminación de registros duplicados.
+- Detección y tratamiento de valores nulos.
+- Conversión de columnas de fecha al formato adecuado.
+- Creación de variables derivadas para facilitar el análisis.
+- Estandarización y limpieza de categorías.
 
+  
 ## Dashboard
 
 📈Power BI: [Visualización](https://app.powerbi.com/view?r=eyJrIjoiZmFhNDRiNTMtNDFhYi00NzEyLThiM2QtYjA0Zjc5YjRmNThjIiwidCI6Ijk2NjIzM2UzLTBiNzUtNGM3Ny04NzdhLWQ5YjcwYTY5ZWEwMSIsImMiOjR9)
