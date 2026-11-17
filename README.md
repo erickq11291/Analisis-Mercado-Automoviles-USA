@@ -11,7 +11,7 @@ El dataset cuenta con más de 540.000 registros correspondientes a vehículos ve
 
 ## Procesamiento de Datos
 
-📃Jupyter Notebook: [Accidentes_Trafico_Madrid_2025 - Notebook](https://github.com/erickq11291/Proyectos-Python/blob/068f3711879665926509afeabbb0d22826f34d87/Accidentes_Madrid_2025.ipynb)
+📃Jupyter Notebook: [Mercado_Vehiculos_Usados_USA - Notebook]()
 
 - Revisión general de la estructura y calidad del dataset.
 - Identificación y eliminación de registros duplicados.
