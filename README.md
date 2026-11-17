@@ -1,13 +1,12 @@
-# 🚗 Análisis de Accidentes de Tráfico en Madrid 2025
+# 🚘 Explorando el Mercado de Vehículos Usados en Estados Unidos
 
 ## Sobre los Datos
 
-📚Dataset: [Accidentes de tráfico 2025 - Dataset](https://datos.madrid.es/dataset/300228-0-accidentes-trafico-detalle/resource/300228-1-accidentes-trafico-detalle-csv)
+📚Dataset: [Vehicle Sales Data - Dataset](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)
 
-Este proyecto utiliza un dataset de accidentes de tráfico registrados en la ciudad de Madrid durante el año 2025. Cada registro corresponde a un accidente e incluye información sobre la fecha, ubicación, tipo de accidente, condiciones meteorológicas, etc.
+Este conjunto de datos contiene información sobre ventas de vehículos usados en Estados Unidos, incluyendo características como marca, modelo, carrocería, transmisión, kilometraje y precio de venta.
 
-El conjunto de datos cuenta con más de 49.000 registros y fue obtenido del Portal de Datos Abiertos del Ayuntamiento de Madrid, permitiendo analizar distintos patrones relacionados con la movilidad y los accidentes de tráfico en la ciudad.
-
+El dataset cuenta con más de 540.000 registros correspondientes a vehículos vendidos durante 2014 y 2015, lo que permite explorar las tendencias y características más representativas del mercado de segunda mano.
 
 
 ## Procesamiento de Datos
